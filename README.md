@@ -1,6 +1,6 @@
 ## Chatbot implementation 
 
-First, use an abstract base class via the `abc` library module to list the methods ans signatures expected of all subclasses (if a subclass doesn't implement the abstract methods, an exception is raised).
+Based on https://github.com/foxbook/atap
 
 #### For the Constituency parser
 
